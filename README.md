@@ -1,1 +1,0 @@
-# challenge2-data-science-LATAM_parte2
